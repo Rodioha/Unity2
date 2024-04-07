@@ -1,8 +1,4 @@
 "Hello, World!"
-<<<<<<< HEAD
 print("How are you");
 1
 2
-=======
-print("How are you");
->>>>>>> parent of 798b42c (Update unity.txt)
